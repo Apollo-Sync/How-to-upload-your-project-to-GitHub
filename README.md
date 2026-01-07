@@ -17,10 +17,17 @@ git branch -M main
 ```
 git add .
 ```
+
 **4.First commit**
 ```
 git commit -m "Initial commit: push project to GitHub"
 ```
+
+**5. Connect local to repository github**
+```
+git remote add origin https://github.com/username/YourProject.git
+```
+
 
 
 
