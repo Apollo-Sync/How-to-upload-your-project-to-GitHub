@@ -39,6 +39,13 @@ git remote add origin https://github.com/username/YourProject.git
 git push origin main
 ```
 
+**If have change in Repository in Github**
+```
+git fetch origin
+```
+```
+git pull origin main --rebase
+```
 
 
 
