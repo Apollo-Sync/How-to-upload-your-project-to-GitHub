@@ -21,7 +21,7 @@ git add .
 **4. Add mail, usernam github**
 ```
 git config --global user.email "yourmail@gmail.com"
-git config --global user.name "Yourusername"
+git config --global user.name "Your Github username"
 ```
 
 **5.First commit**
