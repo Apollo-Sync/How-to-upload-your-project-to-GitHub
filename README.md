@@ -18,14 +18,23 @@ git branch -M main
 git add .
 ```
 
-**4.First commit**
+**4. Add mail, usernam github**
+git config --global user.email "yourmail@gmail.com"
+git config --global user.name "Yourusername"
+
+**5.First commit**
 ```
 git commit -m "Initial commit: push project to GitHub"
 ```
 
-**5. Connect local to repository github**
+**6. Connect local to repository github**
 ```
 git remote add origin https://github.com/username/YourProject.git
+```
+
+**7. push**
+```
+git push origin main
 ```
 
 
