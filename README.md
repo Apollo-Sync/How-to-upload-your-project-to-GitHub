@@ -41,10 +41,16 @@ git push origin main
 
 **If have change in Repository in Github**
 ```
-git fetch origin
+git pull origin main
 ```
 ```
-git pull origin main --rebase
+git add .
+```
+```
+git rebase --continue
+```
+```
+git push origin main
 ```
 
 
