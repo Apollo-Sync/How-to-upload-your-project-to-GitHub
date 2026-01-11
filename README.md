@@ -41,7 +41,7 @@ git push origin main
 
 **If have change in Repository in Github**
 ```
-git pull origin main
+git fetch origin
 ```
 ```
 git add .
