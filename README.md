@@ -44,6 +44,10 @@ git push origin main
 git fetch origin
 ```
 ```
+git pull origin main
+```
+
+```
 git add .
 ```
 ```
